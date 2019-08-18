@@ -49,4 +49,6 @@ GridView File
    Output
    
    <img width="922" alt="CoreProgramm-XML-Bind-ASP NET-7" src="https://user-images.githubusercontent.com/53593343/63228310-95cbc180-c20e-11e9-8f1f-4adca1e85c4e.png">
-   
+  
+  For more details visit
+  https://www.coreprogramm.com/2019/08/how-to-bind-xml-file-data-in-grid-view.html
